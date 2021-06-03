@@ -8,7 +8,7 @@ const CONFIG = {
     title: 'Sau này bạn sẽ chở thành ai...! ',
     desc: 'hãy cố gắng để chọn ước mơ của bạn ',
     btnYes: 'Chộm chó :))',
-    btnNo: 'tỷ phú triệu đô:(( ',
+    btnNo: 'tỷ phú triệu đô :(( ',
     question:'Để thực hiện ước mơ đó bạn sẽ làm gì',
     btnReply: 'trả lời thật lòng nhé <3',
     reply: 'Đi sark tank kêu gọi vốn đầu tư 35tr combo exciter thòng lọng',
