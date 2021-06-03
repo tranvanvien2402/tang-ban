@@ -1,19 +1,22 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'bạn à!',
+    introDesc: `Năm tháng trôi qua 
+    thật nhanh đến khi ta nhận ra thì đã quá muộn 
+    Hãy chọn ước mơ sau này mà muốn trở thành ai
+    Hãy tiết với tôi chỉ có chúng ta biết`,
+    btnIntro: 'ok',
+    title: 'Sau này bạn sẽ chở thành ai...! ',
+    desc: 'hãy cố gắng để chọn ước mơ của bạn ',
+    btnYes: 'người lái exciter hàng đêm tìm chó lạc :))',
+    btnNo: 'Doanh nhân :3',
+    btnNo: 'cô(thầy) giáo <3 ',
+    btnNo: 'tỷ phú ',
+    btnNo: 'tổng giám đốc 1 công ti lớn ',
+    question:'Để thực hiện ước mơ đó bạn sẽ làm gì',
+    btnReply: 'trả lời thật lòng nhé <3',
+    reply: 'Đi sark tank kêu gọi vốn đầu tư 35tr combo exciter thòng lọng',
+    mess: 'tôi biết mà 🥰. hãy cố gắng học cho đến giây phút cuối cùng 😘😘',
+    messDesc: 'đừng đi ngủ quá 1h sáng nhé.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
